@@ -1,6 +1,6 @@
 # 👨‍💻 PROFILE: 
 Hey there👋, my name is Truong Minh Huynh.
-Passionate Frontend Developer with a strong focus on building seamless, user-friendly web interfaces. Skilled in problem-solving and effective communication, I strive to deliver engaging digital experiences while contributing to product quality and customer satisfaction in dynamic tech environments.
+I am a Software Engineering student passionate about full-stack web development. I have hands-on experience in building modern and user-friendly web applications using ReactJS, NodeJS, ExpressJS, and MongoDB. I enjoy learning new technologies and collaborating in teams to create optimal solutions. My goal is to become a professional Full Stack Developer contributing to innovative and scalable projects.
 
 ## 🌐 SOCIALS:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynhtruong260345@gmail.com) 
